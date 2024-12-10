@@ -8,7 +8,6 @@ docker==4.3.1
 testinfra==5.3.1
 
 # Added for the Elastic ansible role: roles/community/elastic.ansible-elasticsearch
-jmespath==0.10.0
 
 # required for jinja2 filter ipaddr used to parse ip-addresses, initially used for partner-portal.yml file.
 netaddr==0.8.0
